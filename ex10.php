@@ -4,7 +4,7 @@
     $peso = $_POST['valor1'];
 
     $valor1 = $altura * $altura;
-    $imc = number_format($peso / $altura,2,'.','');
+    $imc = number_format($peso / $valor1,2,'.','');
 
 
     if ($imc > 24.9){
