@@ -18,7 +18,6 @@
 
 <p>
     <form action="index2.php" method="post">
-        <label>Ir para atividade 2</label>
         <button type="submit">Atividade 2</button>
     </form>
 </p>

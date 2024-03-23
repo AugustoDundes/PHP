@@ -41,7 +41,6 @@
     ?>
     <p>
     <form action="index3.php" method="post">
-        <label>Ir para atividade 3</label>
         <button type="submit">Atividade 3</button>
     </form>
     </p>

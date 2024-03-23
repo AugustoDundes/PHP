@@ -6,10 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="ex1.php" method="post">
-        <label>Informe o valor 1:</label>
-        <input type="text" name="valor1">
-        <button type="submit">Enviar</button>
+    <form action="ex4.php" method="post">
+        <label>Insira um valor: </label>
+        <input type="text" name="valor">
+        <button>Enviar</button>
     </form>
 </body>
 </html>
