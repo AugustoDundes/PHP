@@ -7,9 +7,9 @@
 </head>
 <body>
     <form action="ex5.php" method="post">
-    <label>Insira um número a ser fatorado: </label>
-    <input type="text" nome="valor">
-    <button type='submit'>Enviar</button>
+        <label>Insira um valor: </label>
+        <input type="text" name="valor1">
+        <button type='submit'>Enviar</button>
     </form>
 </body>
 </html>
