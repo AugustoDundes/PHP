@@ -10,11 +10,9 @@
                                          "c" mostra tudo sobre a data atual, porém pode colocar (d/m/y) para mostrar -->
 
 
-    <form action="resposta.php" method="post">
+    <form action="ex1.php" method="post">
         <label>Informe o valor 1:</label>
         <input type="text" name="valor1">
-        <label>Informe o valor 2:</label>
-        <input type="text" name="valor2">
         <button type="submit">Enviar</button>
     </form>
 </body>
