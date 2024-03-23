@@ -9,7 +9,7 @@
     <form action="ex4.php" method="post">
         <label>Insira um valor: </label>
         <input type="text" name="valor">
-        <button>Enviar</button>
+        <button type='submit'>Enviar</button>
     </form>
 </body>
 </html>

@@ -10,7 +10,7 @@
         <p>
         <label>Informe o valor 1:</label>
         <input type="text" name="valor1">
-</p>
+        </p>
         <label>Informe o valor 2:</label>
         <input type="text" name="valor2">
         <p>
