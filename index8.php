@@ -6,9 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="ex7.php" method="post">
-        <label>Insira um valor em metros(utilizar ponto no lugar da vírgula): </label>
+    <form action="ex8.php" method="post">
+        <label>Qual a área que deverá ser pintada: </label>
         <input type="text" name="valor1">
+        <label>M²</label>
         <button type='submit'>Enviar</button>
     </form>
 </body>
